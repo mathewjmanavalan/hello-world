@@ -1,2 +1,3 @@
 # hello-world
 Testing out Git
+This is part of the "readme-edits" branch. Im just gonna keep typing till i run out of stugff....
